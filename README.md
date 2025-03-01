@@ -67,5 +67,5 @@ Make sure you have Python installed (>=3.8 recommended). You will also need to i
 - Request: `{ "player_data": "string" }`
 - Response: `{ "Generated NFL Scouting Report": "string" }`
 
-- <img width="1728" alt="Image" src="https://github.com/user-attachments/assets/a13b8ab9-31f1-4875-8424-c8b6c168a578" />
+
 
